@@ -63,3 +63,5 @@ Espera-se compreender o desempenho relativo dos algoritmos sob diferentes condi�
 **João Pedro Rego Magalhães**  
 Estudante de Ciência da Computação | Desenvolvedor Java Backend  
 [LinkedIn](https://www.linkedin.com/in/joaomagh) • [GitHub](https://github.com/Joaomagh)
+
+Integrantes: João Pedro Rego, Bruno Matos
